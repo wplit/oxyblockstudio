@@ -2,7 +2,7 @@
 
 /*
     Title: Flex
-    Description: Flex block.
+    Description: Flex content block.
     Category: design
     Icon: cover-image
     Mode: preview

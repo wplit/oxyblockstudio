@@ -21,20 +21,10 @@ $fields = array(
             0 => 'blockstudio_component_content',
         ),
         'display' => 'seamless',
-    ),
-    array(
-        'key'     => 'media_field',
-        'name'    => 'media',
-        'type'    => 'clone',
-        'clone'   => array(
-            0 => 'blockstudio_component_media',
-        ),
-        'display' => 'seamless',
     )
 );
 
 // Include the templates
 include BLOCKSTUDIO_DIR . '/library/components/content.php';
-include BLOCKSTUDIO_DIR . '/library/components/media.php';
 
 ?>

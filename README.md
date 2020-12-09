@@ -10,9 +10,8 @@ A basic starter plugin for creating custom blocks with blockstudio, while using 
 
 ## Usage ##
 
-1. Connect to your server using a FTP client and navigate to the plugin directory.
-2. Upload the files you want to use/load in the corresponding directories inside the `assets` directory.
-3. Edit `plugin.php` and use the commented sample code as an example to add enqueue or other site-specific code. While there you may also want to edit the plugin's header with your name, plugin and author URLs etc.
+Add your blocks in the blocks directory found in this plugin. 
+Two example blocks are already in there from the blockstudio documentation, a simple cta with two text fields and a flexible block containing a content field and media field.
 
 ## Changelog ##
 
